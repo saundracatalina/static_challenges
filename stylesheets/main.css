@@ -1,0 +1,44 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  background-color: red;
+  color: white;
+  font-size: 30px;
+  padding: 20px;
+}
+
+h5 {
+  background-color: black;
+  color: white;
+  font-size: 14px;
+  padding: 10px;
+  text-align: right;
+}
+
+h2 {
+  font-size: 20px;
+  padding: 5px;
+  width: 70%;
+}
+
+h3 {
+  font-size: 17px;
+  padding: 5px;
+  width: 30%;
+  float: right;
+}
+
+h4 {
+  background-color: black;
+  color: white;
+  font-size: 12px;
+  padding: 10px;
+}
+
+p {
+  font-size: 12px;
+  padding: 10px;
+  width: 70%;
+}
